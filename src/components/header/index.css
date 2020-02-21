@@ -1,0 +1,31 @@
+.header {
+  border-bottom: 1px solid #000;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.basket {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 17px;
+  text-align: right;
+  color: #4ac5df;
+  text-decoration: none;
+}
+
+.header__category a {
+  text-decoration: none;
+  font-family: Ubuntu;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  color: #000000;
+  margin-right: 15px;
+}
+
+.header__category a.selected {
+  font-weight: bold;
+}

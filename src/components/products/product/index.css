@@ -1,0 +1,38 @@
+.product {
+  width: 263px;
+  box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  margin-bottom: 15px;
+}
+
+.product-image {
+  width: 263px;
+}
+
+.product-info {
+  padding-left: 15px;
+  padding-right: 14px;
+}
+
+.product-category {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 17px;
+  color: #4ac5df;
+}
+
+.product-title {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+}
+
+.product-price {
+}
+
+.poduct-link {
+  text-decoration: none;
+  color: #000;
+}
